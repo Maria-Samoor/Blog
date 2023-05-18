@@ -11,7 +11,7 @@ build a gallery style page with clickable links to projects that completed
 To set up and run the blog and portfolio web app, follow these steps:
 
 ### Clone the repository:
-git clone https://github.com/Maria-Ahmad/Blog
+git clone (https://github.com/Maria-Samoor/Blog.git)
 ### Navigate to the project directory:
 cd blog-portfolio-webapp/
 ### Apply database migrations:
